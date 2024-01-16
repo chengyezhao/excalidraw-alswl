@@ -1,0 +1,17 @@
+*
+!.env.development
+!.env.production
+!.eslintrc.json
+!.npmrc
+!.prettierrc
+!package.json
+!public/
+!src/
+!tsconfig.json
+!yarn.lock
+!index.html
+!index.tsx
+!vite.config.ts
+!vitest.config.ts
+!excalidraw-app
+!launcher.py
